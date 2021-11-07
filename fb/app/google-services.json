@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013746117361",
+    "project_id": "fbpractice-98fde",
+    "storage_bucket": "fbpractice-98fde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013746117361:android:8640484fe3ec3805251750",
+        "android_client_info": {
+          "package_name": "com.example.fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013746117361-28u15auapvuj496h70bfq52ki0f632j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSCXC9UXAMFWDz_ki2PVF5PkWVaLPb-BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013746117361-28u15auapvuj496h70bfq52ki0f632j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
